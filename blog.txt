@@ -1,0 +1,9 @@
+<p>---</p>
+<p><em>18 april 2021, start of something new</em></p>
+<p>new website has been created. some work to be done.</p>
+<p>current tasks</p>
+<ul>
+<li>web based python baseballs stats app</li>
+<li>python checkers bot</li>
+</ul>
+<p>this has been an update</p>
