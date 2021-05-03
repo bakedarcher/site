@@ -1,10 +1,12 @@
 blog.txt
 -----
+@ 3 may 2021
+my other website has been doing great things
+i might bring some of those things to here
+might not
+
 @ 25 april 2021
-goldjerry.gold aka cloud control
-will be the home of various scripting abominations
-check it out
-thanks
+i have an alternate site for cool stuff
 
 @ 18 april 2021
 my new website is live
