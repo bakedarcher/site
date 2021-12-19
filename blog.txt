@@ -1,5 +1,9 @@
 blog.txt
 -----
+@ 19 dec 2021
+it is the christmas season
+i am not feeling festive
+
 @ 24 oct 2021
 i forgot about this website
 i will do some work on it soon
